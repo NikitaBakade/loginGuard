@@ -1,0 +1,17 @@
+.body{
+    background-color: antiquewhite;
+    padding-bottom: 200px;
+}
+.nav{
+    background-color: black;
+    height: 100px;
+}
+.nav-link{
+    color: wheat;
+}
+.nav-item{
+    padding-top: 20px;
+}
+.card-group{
+    padding-top: 50px;
+}
